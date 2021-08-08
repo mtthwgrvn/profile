@@ -1,0 +1,5 @@
+A common fear regarding AI and the future of work is that AI will replace human workers and that it will become increasingly more difficult to secure decent work. But it doesn't have to be this way. The future of work can be found in artisanal production. Furthermore, the design and application of AI technologies can support a range of activities to support the artisan so that they can focus on their craft. Experiments with groups of Africans (Ghanians), African Americans (Detroiters), Native Americans (Anishinaabe) and more have shown that AI could help to scale up labor utilizing [[heritage algorithms]]
+
+Keywords: [[human-machine collaboration]]; [[artisanal economy]]; [[generative justice]]; [[industrial symbiosis]]; [[ethnocomputing]]
+
+Eglash, R., Robert, L., Bennett, A., Robinson, K., Lachney, M., & Babbitt, W. (2019, November). AI for a Generative Economy: The Role of Intelligent Systems in Sustaining Unalienated Labor, Environment, and Society. In _AAAI fall symposium series_.
